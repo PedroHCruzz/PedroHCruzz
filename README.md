@@ -12,4 +12,6 @@
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-henrique-cruz-3b3b84230)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:izaeljunior.fut@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](pedrohenriquecruzsg@gmail.com)
+
+[![PedroHCruzz GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHCruzz&theme=dracula)]
