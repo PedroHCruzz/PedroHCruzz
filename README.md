@@ -1,7 +1,7 @@
 # **_Pedro Henrique Cruz_**
 ![Screenshot_1](https://github.com/user-attachments/assets/bdc028c3-cd79-4c39-be09-bba0175ea31d)
 - 📚 Atualmente sou estudante na São Paulo Tech School
-- 💻 Desenvolvedor FullStack
+- 💻 Desenvolvedor FrontEnd
 - 😃 Pronomes: ele/dele
 
 <div align="center">
